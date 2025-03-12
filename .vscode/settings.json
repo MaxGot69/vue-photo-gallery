@@ -1,0 +1,9 @@
+{
+    "css.validate": false,
+    "tailwindCSS.experimental.classRegex": [],
+    "tailwindCSS.includeLanguages": {
+      "vue": "html",
+      "javascript": "javascript"
+    }
+  }
+  
